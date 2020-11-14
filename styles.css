@@ -61,9 +61,9 @@ body {
 .s_card:hover h3 , .s_card:hover p , .s_card:hover .fa , .s_card:hover .fab{
     color: white !important;
 }
-.c_btn{
+/* .c_btn{
     width: 350px  !important;
-}
+} */
 
 .map-container-2{
     overflow:hidden;
